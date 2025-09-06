@@ -56,6 +56,28 @@ I have been learning web development for 1.5 year but after switching the career
   </a>
 </p>
 
+### Currentlyng learning AI/ML
+
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48" alt="TensorFlow" /></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" /></a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="48" height="48" alt="NumPy" /></a>
+</p>
+
+### Top AI/ML Repos
+- [Movie-recomender_AI](https://github.com/eralichoriyev/Movie-recomender_AI)
+- [Voice_Pilot](https://github.com/eralichoriyev/VoicePilot)
+- [Chatbot_AI](https://github.com/eralichoriyev/chatbotAI)
+- [Grocery_App](https://github.com/eralichoriyev/grocery-app-eralichoriev)
+  
+
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-🐍%20Learner-blue?style=for-the-badge&logo=python" alt="Python Learner" /></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-Learner-orange?style=for-the-badge&logo=pytorch" alt="PyTorch Learner" /></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-Learner-orange?style=for-the-badge&logo=tensorflow" alt="TensorFlow Learner" /></a>
+
+
 
 
 
