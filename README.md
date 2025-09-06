@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erali Chori
 ===================================================================================================================================
 
-I am a flutter developer.
+I am a AI/ML engineer.
 -------------------------
 
-I have been learning web development for 1.5 year but after switching the careers, I started with flutter and found a passion for it!
+I have been learning web development for 1.5 year but after switching the careers, I started with AI and found a passion for it!
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [eralidevchoriev@gmail.com](mailto:eralidevchoriev@gmail.com)
