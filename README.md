@@ -8,7 +8,7 @@ I have been learning web development for 1.5 year but after switching the career
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [eralidevchoriev@gmail.com](mailto:eralidevchoriev@gmail.com)
-* 🧠  I'm learning Algorithms, data structures, ......
+* 🧠  I'm learning Algorithms, data structures, ML/AI......
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am a wizard but don't tell anybody
 
